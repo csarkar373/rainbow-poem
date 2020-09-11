@@ -2,6 +2,8 @@ Rainbows
 Blue
 Red
 Green
+White
+Black
 Purple
 Gold
 Westhill
